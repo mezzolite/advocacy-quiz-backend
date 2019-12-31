@@ -1,0 +1,2 @@
+class AdvocacyAction < ApplicationRecord
+end
