@@ -3,7 +3,7 @@
 A database of legislative advocacy actions. Each action is rated 1 through 5 for effectiveness, with 5 being most effective. 
 
 ## Stack:
-Ruby on Rails with PostgresQL
+Ruby on Rails with PostgreSQL
 
 Frontend git repository: [Advocacy Quiz Frontend](https://github.com/mezzolite/advocacy-quiz-frontend)
 
